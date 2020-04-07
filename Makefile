@@ -1,5 +1,5 @@
 all:
-	javac node.java
-	javac heapops.java
-	javac keywordcounter.java
+	javac Node.java
+	javac MaxFibonacciHeap.java
+	javac hashtagcounter.java
 
